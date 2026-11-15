@@ -1,0 +1,14 @@
+FOTOS QUE VAN EN ESTA CARPETA (nombres exactos, en minúsculas la extensión .jpg)
+
+Portada:
+  IMG_0343.jpg   (2400 px de lado largo)
+
+Galería (2000 px de lado largo, menos de 500 KB cada una):
+  IMG_9910.jpg   IMG_3840.jpg   DSC07182.jpg   IMG_9381.jpg   IMG_0033.jpg
+  _DSC0720.jpg   DSC05049.jpg   IMG_4606.jpg   IMG_1471.jpg   DSC07479.jpg
+  _DSC0640.jpg   DSC05164.jpg   IMG_0192.jpg   IMG_3028.jpg   DSC05782.jpg
+
+Vista previa para WhatsApp:
+  og.jpg         (recorte de IMG_0343 a 1200 x 630 px)
+
+Si cambias una foto, edita la lista OBRA al inicio del <script> en index.html.
